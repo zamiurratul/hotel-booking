@@ -1,7 +1,7 @@
 package com.zamiur.ratul.hotel.service;
 
-import com.zamiur.ratul.hotel.dto.BookingData;
-import com.zamiur.ratul.hotel.entity.Booking;
+import com.zamiur.ratul.hotel.model.dto.BookingData;
+import com.zamiur.ratul.hotel.model.entity.Booking;
 import com.zamiur.ratul.hotel.repository.BookingRepository;
 import com.zamiur.ratul.hotel.utils.DateUtils;
 import com.zamiur.ratul.hotel.utils.NumberUtils;

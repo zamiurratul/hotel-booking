@@ -1,4 +1,4 @@
-package com.zamiur.ratul.hotel.entity;
+package com.zamiur.ratul.hotel.model.entity;
 
 import javax.persistence.*;
 import lombok.Data;
